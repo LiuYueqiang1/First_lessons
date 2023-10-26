@@ -1,0 +1,15 @@
+H:/fpga/firstlesson/5/a_and_b/assign/a_and_b.v {1 {vlog -work work -vopt -stats=none H:/fpga/firstlesson/5/a_and_b/assign/a_and_b.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module a_and_b
+
+Top level modules:
+	a_and_b
+
+} {} {}} H:/fpga/firstlesson/5/a_and_b/sim/tb_a_and_b.v {1 {vlog -work work -vopt -stats=none H:/fpga/firstlesson/5/a_and_b/sim/tb_a_and_b.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_a_and_b
+
+Top level modules:
+	tb_a_and_b
+
+} {} {}}

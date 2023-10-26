@@ -1,0 +1,8 @@
+H:/fpga/firstlesson/4/key_ctrl_led.v {1 {vlog -work work -vopt -stats=none H:/fpga/firstlesson/4/key_ctrl_led.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module key_ctrl_led
+
+Top level modules:
+	key_ctrl_led
+
+} {} {}}

@@ -1,0 +1,15 @@
+H:/fpga/firstlesson/8_ifelsecase/design/home_ifelse.v {1 {vlog -work work -vopt -stats=none H:/fpga/firstlesson/8_ifelsecase/design/home_ifelse.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module home_ifelse
+
+Top level modules:
+	home_ifelse
+
+} {} {}} H:/fpga/firstlesson/8_ifelsecase/sim/tb_homeifelse.v {1 {vlog -work work -vopt -stats=none H:/fpga/firstlesson/8_ifelsecase/sim/tb_homeifelse.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_homeifelse
+
+Top level modules:
+	tb_homeifelse
+
+} {} {}}

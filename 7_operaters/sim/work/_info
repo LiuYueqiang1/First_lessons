@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/fpga/firstlesson/6_tri_assgnments/homework/sim
+T_opt
+!s110 1697979092
+V39Q3D[zOBUFCC@YDUUS[=0
+04 12 4 work tb_operaters fast 0
+=2-c85b76f65fdf-65351ad3-3e1-43a4
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+voperaters
+!s110 1697979081
+!i10b 1
+!s100 n:4j8JJ4FUMRmO7WZid;m2
+IGEAJ5W8_KT?HzLlEbj4Tj0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dH:/fpga/firstlesson/7_operaters/sim
+w1697979073
+8H:/fpga/firstlesson/7_operaters/desin/operaters.v
+FH:/fpga/firstlesson/7_operaters/desin/operaters.v
+Z3 L0 10
+Z4 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1697979081.000000
+!s107 H:/fpga/firstlesson/7_operaters/desin/operaters.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/7_operaters/desin/operaters.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtb_operaters
+!s110 1697978639
+!i10b 1
+!s100 b@24z8J88E9Oa?LzTTb_`3
+If3m7ca4=M_]^BiUd7W<2[2
+R1
+R2
+w1697978634
+8H:/fpga/firstlesson/7_operaters/sim/tb_operaters.v
+FH:/fpga/firstlesson/7_operaters/sim/tb_operaters.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1697978639.000000
+!s107 H:/fpga/firstlesson/7_operaters/sim/tb_operaters.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/7_operaters/sim/tb_operaters.v|
+!i113 0
+R5
+R0

@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/fpga/firstlesson/9/div_cnt4/sim
+T_opt
+!s110 1698046737
+V7cCWSzVlfRONW`@GV5?`N1
+04 12 4 work db_div_cet_1 fast 0
+=1-c85b76f65fdf-65362311-2d2-3104
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vdb_div_cet_1
+!s110 1698046728
+!i10b 1
+!s100 LZ@g3nU5k_dK6U[mHCfPE0
+IcS<:DD7@XSJS2Ro:?S>2S3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dH:/fpga/firstlesson/9/div_cnt4_1/sim
+w1698046706
+8H:/fpga/firstlesson/9/div_cnt4_1/sim/db_div_cet_1.v
+FH:/fpga/firstlesson/9/div_cnt4_1/sim/db_div_cet_1.v
+L0 11
+Z3 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1698046727.000000
+!s107 H:/fpga/firstlesson/9/div_cnt4_1/sim/db_div_cet_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/9/div_cnt4_1/sim/db_div_cet_1.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vdiv_cnt_1
+!s110 1698046695
+!i10b 1
+!s100 Um3lnkEMWQP8bQoRl9fUG0
+IgM2a9=7L]bjRJF^RP9X[Q1
+R1
+R2
+w1698046210
+8H:/fpga/firstlesson/9/div_cnt4_1/design/div_cnt_1.v
+FH:/fpga/firstlesson/9/div_cnt4_1/design/div_cnt_1.v
+L0 10
+R3
+r1
+!s85 0
+31
+!s108 1698046695.000000
+!s107 H:/fpga/firstlesson/9/div_cnt4_1/design/div_cnt_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/9/div_cnt4_1/design/div_cnt_1.v|
+!i113 0
+R4
+R0

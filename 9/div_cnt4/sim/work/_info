@@ -1,0 +1,114 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dH:/fpga/firstlesson/8_ifelsecase/sim
+T_opt
+!s110 1698029963
+V?Y<7:IUDJ_B>6^R;_50>O0
+04 10 4 work db_div_cet fast 0
+=2-c85b76f65fdf-6535e18b-47-40d8
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7;67
+R0
+T_opt1
+!s110 1698047206
+VYj^F8d9AhIGHMBD2cOUR<0
+04 12 4 work db_div_cet_1 fast 0
+=1-c85b76f65fdf-653624e6-31-36f4
+R1
+R2
+n@_opt1
+R3
+R0
+vdb_div_cet
+!s110 1698047964
+!i10b 1
+!s100 e_63mWCICQ98:L3z[Vmj<0
+IIzfOG2OXfWj;:lfOI@N;g0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dH:/fpga/firstlesson/9/div_cnt4/sim
+w1698029951
+8H:/fpga/firstlesson/9/div_cnt4/sim/db_div_cet.v
+FH:/fpga/firstlesson/9/div_cnt4/sim/db_div_cet.v
+Z6 L0 11
+Z7 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1698047964.000000
+!s107 H:/fpga/firstlesson/9/div_cnt4/sim/db_div_cet.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/9/div_cnt4/sim/db_div_cet.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vdb_div_cet_1
+Z9 !s110 1698047965
+!i10b 1
+!s100 LZ@g3nU5k_dK6U[mHCfPE0
+I8>1U]5FJP]obB5zNFKgTd2
+R4
+R5
+w1698047181
+8H:/fpga/firstlesson/9/div_cnt4/sim/db_div_cet_1.v
+FH:/fpga/firstlesson/9/div_cnt4/sim/db_div_cet_1.v
+R6
+R7
+r1
+!s85 0
+31
+Z10 !s108 1698047965.000000
+!s107 H:/fpga/firstlesson/9/div_cnt4/sim/db_div_cet_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/9/div_cnt4/sim/db_div_cet_1.v|
+!i113 0
+R8
+R2
+vdiv_cnt
+R9
+!i10b 1
+!s100 ;YO?A^5ffB3JbKDX^LR=C0
+IIFQ_86mOFZ_XAP3KC1`mD2
+R4
+R5
+w1698029950
+8H:/fpga/firstlesson/9/div_cnt4/desin/div_cnt.v
+FH:/fpga/firstlesson/9/div_cnt4/desin/div_cnt.v
+Z11 L0 10
+R7
+r1
+!s85 0
+31
+R10
+!s107 H:/fpga/firstlesson/9/div_cnt4/desin/div_cnt.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/9/div_cnt4/desin/div_cnt.v|
+!i113 0
+R8
+R2
+vdiv_cnt_1
+R9
+!i10b 1
+!s100 Um3lnkEMWQP8bQoRl9fUG0
+I3;VWflZK@W[ZYF`nzO>E>3
+R4
+R5
+w1698045080
+8H:/fpga/firstlesson/9/div_cnt4/desin/div_cnt_8.v
+FH:/fpga/firstlesson/9/div_cnt4/desin/div_cnt_8.v
+R11
+R7
+r1
+!s85 0
+31
+R10
+!s107 H:/fpga/firstlesson/9/div_cnt4/desin/div_cnt_8.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/9/div_cnt4/desin/div_cnt_8.v|
+!i113 0
+R8
+R2

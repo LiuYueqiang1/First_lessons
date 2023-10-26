@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/fpga/firstlesson/5/a_and_b/sim
+T_opt
+!s110 1697896260
+VzFF65`?9W?0J4VYcEEVeB0
+04 14 4 work tb_a_and_b_bit fast 0
+=4-c85b76f65fdf-6533d743-379-1a90
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+va_and_b_bit
+!s110 1697893509
+!i10b 1
+!s100 6[@[W16=8;cLk98gkBA:o3
+IQfV>JK;DzKacacH=<<G5Z2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dH:/fpga/firstlesson/5/homework/sim
+w1697892808
+8H:/fpga/firstlesson/5/homework/design/a_and_b_bit.v
+FH:/fpga/firstlesson/5/homework/design/a_and_b_bit.v
+L0 1
+Z3 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1697893509.000000
+!s107 H:/fpga/firstlesson/5/homework/design/a_and_b_bit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/5/homework/design/a_and_b_bit.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtb_a_and_b_bit
+!s110 1697896245
+!i10b 1
+!s100 O:C8cTc?o?ozo:;A?`J;o2
+IEjzA>N79Sg9?Y^Z^T9Yc`1
+R1
+R2
+w1697896237
+8H:/fpga/firstlesson/5/homework/sim/tb_a_and_b_bit.v
+FH:/fpga/firstlesson/5/homework/sim/tb_a_and_b_bit.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1697896245.000000
+!s107 H:/fpga/firstlesson/5/homework/sim/tb_a_and_b_bit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/5/homework/sim/tb_a_and_b_bit.v|
+!i113 0
+R4
+R0

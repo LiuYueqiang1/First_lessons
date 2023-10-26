@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/fpga/firstlesson/5/homework/sim
+T_opt
+!s110 1697943801
+VCTP;i[6>UaD6GD^QHcKa]1
+04 17 4 work tb_tri_assignment fast 0
+=3-c85b76f65fdf-653490f9-9b-2ee8
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vtb_tri_assignment
+!s110 1697943678
+!i10b 1
+!s100 an7Hn=f:mO2@7FHC9M?>[2
+ImNCo3lI?llP^H5EEV7b?32
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dH:/fpga/firstlesson/6_tri_assgnments/sim
+w1697943671
+8H:/fpga/firstlesson/6_tri_assgnments/sim/tb_tri_assignment.v
+FH:/fpga/firstlesson/6_tri_assgnments/sim/tb_tri_assignment.v
+L0 11
+Z3 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1697943678.000000
+!s107 H:/fpga/firstlesson/6_tri_assgnments/sim/tb_tri_assignment.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/6_tri_assgnments/sim/tb_tri_assignment.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtri_assignment
+!s110 1697943794
+!i10b 1
+!s100 L1KT12GlB`0m4V=[>GA@z1
+IiFjl>AWfJI5<QfQl2CKQd2
+R1
+R2
+w1697943787
+8H:/fpga/firstlesson/6_tri_assgnments/assign/tri_assignment.v
+FH:/fpga/firstlesson/6_tri_assgnments/assign/tri_assignment.v
+L0 10
+R3
+r1
+!s85 0
+31
+!s108 1697943794.000000
+!s107 H:/fpga/firstlesson/6_tri_assgnments/assign/tri_assignment.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/6_tri_assgnments/assign/tri_assignment.v|
+!i113 0
+R4
+R0

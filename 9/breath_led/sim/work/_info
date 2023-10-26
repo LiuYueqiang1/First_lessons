@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/fpga/firstlesson/9/div_clk_5/sim
+T_opt
+!s110 1698285594
+VHhlW@^FLAPDcUfX1I6V?W2
+04 11 4 work tb_brea_led fast 0
+=2-c85b76f65fdf-6539c81a-2fe-4224
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vbrea_led
+!s110 1698285588
+!i10b 1
+!s100 `RLDBXSo^AIQA@VG3BfA`2
+I<<MQfi6U2c36ImSYJY[@`2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dH:/fpga/firstlesson/9/breath_led/sim
+w1698285576
+8H:/fpga/firstlesson/9/breath_led/design/brea_led.v
+FH:/fpga/firstlesson/9/breath_led/design/brea_led.v
+L0 10
+Z3 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1698285588.000000
+!s107 H:/fpga/firstlesson/9/breath_led/design/brea_led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/9/breath_led/design/brea_led.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtb_brea_led
+!s110 1698285094
+!i10b 1
+!s100 Yzk6SzW]iSIoW]AT?Vlnk2
+IZ9H85g]V73YYn94;T:5FS0
+R1
+R2
+w1698243843
+8H:/fpga/firstlesson/9/breath_led/sim/tb_brea_led.v
+FH:/fpga/firstlesson/9/breath_led/sim/tb_brea_led.v
+L0 11
+R3
+r1
+!s85 0
+31
+!s108 1698285094.000000
+!s107 H:/fpga/firstlesson/9/breath_led/sim/tb_brea_led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/9/breath_led/sim/tb_brea_led.v|
+!i113 0
+R4
+R0

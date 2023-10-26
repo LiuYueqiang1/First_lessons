@@ -1,0 +1,8 @@
+H:/fpga/firstlesson/9/div_clk_5/design/div_clk_5.v {1 {vlog -work work -vopt -stats=none H:/fpga/firstlesson/9/div_clk_5/design/div_clk_5.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module div_clk_5
+
+Top level modules:
+	div_clk_5
+
+} {} {}}

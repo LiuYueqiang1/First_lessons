@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/fpga/firstlesson/9/div_count_4/sim
+T_opt
+!s110 1698070657
+VjXaYTW_mOiBNnI7TXYRHg2
+04 12 4 work tb_flash_led fast 0
+=16-c85b76f65fdf-65368081-21c-186c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vfalsh_led
+!s110 1698070574
+!i10b 1
+!s100 @@6R;S_>SY5=lWfTdXaNo2
+INgo2bAkK`di=@F0XN6UG01
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dH:/fpga/firstlesson/9/flash_led/sim
+w1698070568
+8H:/fpga/firstlesson/9/flash_led/design/falsh_led.v
+FH:/fpga/firstlesson/9/flash_led/design/falsh_led.v
+L0 10
+Z3 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1698070574.000000
+!s107 H:/fpga/firstlesson/9/flash_led/design/falsh_led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/9/flash_led/design/falsh_led.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtb_flash_led
+!s110 1698070649
+!i10b 1
+!s100 @1Wmmka34gXL6CMjOV8Hi0
+IMk6Wn]n<m2WUi9XTaLM=@3
+R1
+R2
+w1698070644
+8H:/fpga/firstlesson/9/flash_led/sim/tb_flash_led.v
+FH:/fpga/firstlesson/9/flash_led/sim/tb_flash_led.v
+L0 11
+R3
+r1
+!s85 0
+31
+!s108 1698070649.000000
+!s107 H:/fpga/firstlesson/9/flash_led/sim/tb_flash_led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/9/flash_led/sim/tb_flash_led.v|
+!i113 0
+R4
+R0

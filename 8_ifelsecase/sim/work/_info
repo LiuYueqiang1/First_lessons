@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/fpga/firstlesson/7_operaters/sim
+T_opt
+!s110 1698024311
+V>`1<5Hf<U3[0nbL_3[Q:D1
+04 13 4 work tb_homeifelse fast 0
+=3-c85b76f65fdf-6535cb77-2ef-3cac
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vhome_ifelse
+!s110 1698024303
+!i10b 1
+!s100 H8b6AzX6^c:9M8La^ZcjF0
+Il1<g:h;]@lCO7T^DLCiSZ2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dH:/fpga/firstlesson/8_ifelsecase/sim
+w1698024299
+8H:/fpga/firstlesson/8_ifelsecase/design/home_ifelse.v
+FH:/fpga/firstlesson/8_ifelsecase/design/home_ifelse.v
+L0 10
+Z3 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1698024303.000000
+!s107 H:/fpga/firstlesson/8_ifelsecase/design/home_ifelse.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/8_ifelsecase/design/home_ifelse.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtb_homeifelse
+!s110 1697985264
+!i10b 1
+!s100 RWzX9eWocdHi0BJ5@1KN73
+IM:6lGoJzVI`Db2d7Zj1550
+R1
+R2
+w1697985254
+8H:/fpga/firstlesson/8_ifelsecase/sim/tb_homeifelse.v
+FH:/fpga/firstlesson/8_ifelsecase/sim/tb_homeifelse.v
+L0 11
+R3
+r1
+!s85 0
+31
+!s108 1697985264.000000
+!s107 H:/fpga/firstlesson/8_ifelsecase/sim/tb_homeifelse.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/8_ifelsecase/sim/tb_homeifelse.v|
+!i113 0
+R4
+R0

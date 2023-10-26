@@ -1,0 +1,15 @@
+H:/fpga/firstlesson/9/div_cnt4_1/sim/db_div_cet_1.v {1 {vlog -work work -vopt -stats=none H:/fpga/firstlesson/9/div_cnt4_1/sim/db_div_cet_1.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module db_div_cet_1
+
+Top level modules:
+	db_div_cet_1
+
+} {} {}} H:/fpga/firstlesson/9/div_cnt4_1/design/div_cnt_1.v {1 {vlog -work work -vopt -stats=none H:/fpga/firstlesson/9/div_cnt4_1/design/div_cnt_1.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module div_cnt_1
+
+Top level modules:
+	div_cnt_1
+
+} {} {}}

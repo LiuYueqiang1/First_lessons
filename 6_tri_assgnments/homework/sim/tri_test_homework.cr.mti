@@ -1,0 +1,8 @@
+H:/fpga/firstlesson/6_tri_assgnments/homework/assign/tri_test.v {1 {vlog -work work -vopt -stats=none H:/fpga/firstlesson/6_tri_assgnments/homework/assign/tri_test.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tri_test
+
+Top level modules:
+	tri_test
+
+} {} {}}

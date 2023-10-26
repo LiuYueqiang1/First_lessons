@@ -1,0 +1,8 @@
+H:/fpga/firstlesson/9/div_count_4/sim/tb_div_count_4.v {1 {vlog -work work -vopt -stats=none H:/fpga/firstlesson/9/div_count_4/sim/tb_div_count_4.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_div_count_4
+
+Top level modules:
+	tb_div_count_4
+
+} {} {}}

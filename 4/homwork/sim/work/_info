@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/fpga/firstlesson/4/sim
+T_opt
+!s110 1697856109
+VEYg?@CiG>VQDno4mP7C`A2
+04 16 4 work tb_key3_ctrl_led fast 0
+=2-c85b76f65fdf-65333a6d-262-2150
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+vkey3_ctrl_led
+!s110 1697854902
+!i10b 1
+!s100 H3UO;@EW2lOY7CUom_K`V2
+IGaJSjhiRDmZ]I215QdMlG1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dH:/fpga/firstlesson/4/homwork/sim
+w1697854355
+8H:/fpga/firstlesson/4/homwork/design/key3_ctrl_led.v
+FH:/fpga/firstlesson/4/homwork/design/key3_ctrl_led.v
+L0 1
+Z3 OL;L;10.7;67
+r1
+!s85 0
+31
+!s108 1697854902.000000
+!s107 H:/fpga/firstlesson/4/homwork/design/key3_ctrl_led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/4/homwork/design/key3_ctrl_led.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtb_key3_ctrl_led
+!s110 1697856093
+!i10b 1
+!s100 NL[FmcMl2MT[33JSmNE3:3
+I8UH;eGEAG=gO:=PE;g7U>3
+R1
+R2
+w1697855815
+8H:/fpga/firstlesson/4/homwork/sim/tb_key3_ctrl_led.v
+FH:/fpga/firstlesson/4/homwork/sim/tb_key3_ctrl_led.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1697856093.000000
+!s107 H:/fpga/firstlesson/4/homwork/sim/tb_key3_ctrl_led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/firstlesson/4/homwork/sim/tb_key3_ctrl_led.v|
+!i113 0
+R4
+R0
