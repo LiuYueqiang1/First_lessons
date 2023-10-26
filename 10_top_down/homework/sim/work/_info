@@ -1,0 +1,125 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dH:/fpga/First_lessons/10_top_down/sim
+T_opt
+!s110 1698326389
+VaPP8SK1@SD;l==XU6M:kE1
+04 6 4 work tb_top fast 0
+=1-c85b76f65fdf-653a6775-1e5-33fc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+R0
+va_and_b
+Z2 !s110 1698326308
+!i10b 1
+!s100 j;QY4]JMVK6=8F=fdMR8]3
+IO=_Ccai>^]GJL7G<MLGiA3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dH:/fpga/First_lessons/10_top_down/homework/sim
+w1698326137
+8H:/fpga/First_lessons/10_top_down/homework/design/a_and_b.v
+FH:/fpga/First_lessons/10_top_down/homework/design/a_and_b.v
+Z5 L0 10
+Z6 OL;L;10.7;67
+r1
+!s85 0
+31
+Z7 !s108 1698326308.000000
+!s107 H:/fpga/First_lessons/10_top_down/homework/design/a_and_b.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/First_lessons/10_top_down/homework/design/a_and_b.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vdiv_clk1
+Z9 !s110 1698326309
+!i10b 1
+!s100 W7eJGbUUFS[@j2PeKe<HO2
+IOn9gd<0KcX6UJdIkDZlWM0
+R3
+R4
+w1698326139
+8H:/fpga/First_lessons/10_top_down/homework/design/div_clk1.v
+FH:/fpga/First_lessons/10_top_down/homework/design/div_clk1.v
+R5
+R6
+r1
+!s85 0
+31
+Z10 !s108 1698326309.000000
+!s107 H:/fpga/First_lessons/10_top_down/homework/design/div_clk1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/First_lessons/10_top_down/homework/design/div_clk1.v|
+!i113 0
+R8
+R1
+vdiv_clk2
+R9
+!i10b 1
+!s100 i>kj;KIK0ECaZXToJ75C61
+IRgN7n][M?U:]F5>WFPV7U0
+R3
+R4
+w1698326138
+8H:/fpga/First_lessons/10_top_down/homework/design/div_clk2.v
+FH:/fpga/First_lessons/10_top_down/homework/design/div_clk2.v
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 H:/fpga/First_lessons/10_top_down/homework/design/div_clk2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/First_lessons/10_top_down/homework/design/div_clk2.v|
+!i113 0
+R8
+R1
+vtb_top
+R2
+!i10b 1
+!s100 ZF05TbcHPBfgS?P<>S?8L2
+I9e3PBl]Tk4`7Rg37KMg1i0
+R3
+R4
+w1698326134
+8H:/fpga/First_lessons/10_top_down/homework/sim/tb_top.v
+FH:/fpga/First_lessons/10_top_down/homework/sim/tb_top.v
+L0 11
+R6
+r1
+!s85 0
+31
+R7
+!s107 H:/fpga/First_lessons/10_top_down/homework/sim/tb_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/First_lessons/10_top_down/homework/sim/tb_top.v|
+!i113 0
+R8
+R1
+vtop
+!s110 1698327949
+!i10b 1
+!s100 KeRm19;ck<n0bRIQN8VQk0
+Iz7okjXc4O8[nLhJa[62B63
+R3
+R4
+w1698327517
+8H:/fpga/First_lessons/10_top_down/homework/design/top.v
+FH:/fpga/First_lessons/10_top_down/homework/design/top.v
+R5
+R6
+r1
+!s85 0
+31
+!s108 1698327949.000000
+!s107 H:/fpga/First_lessons/10_top_down/homework/design/top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|H:/fpga/First_lessons/10_top_down/homework/design/top.v|
+!i113 0
+R8
+R1

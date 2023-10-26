@@ -1,0 +1,36 @@
+H:/fpga/First_lessons/10_top_down/homework/design/a_and_b.v {1 {vlog -work work -vopt -stats=none H:/fpga/First_lessons/10_top_down/homework/design/a_and_b.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module a_and_b
+
+Top level modules:
+	a_and_b
+
+} {} {}} H:/fpga/First_lessons/10_top_down/homework/design/div_clk1.v {1 {vlog -work work -vopt -stats=none H:/fpga/First_lessons/10_top_down/homework/design/div_clk1.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module div_clk1
+
+Top level modules:
+	div_clk1
+
+} {} {}} H:/fpga/First_lessons/10_top_down/homework/design/div_clk2.v {1 {vlog -work work -vopt -stats=none H:/fpga/First_lessons/10_top_down/homework/design/div_clk2.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module div_clk2
+
+Top level modules:
+	div_clk2
+
+} {} {}} H:/fpga/First_lessons/10_top_down/homework/design/top.v {1 {vlog -work work -vopt -stats=none H:/fpga/First_lessons/10_top_down/homework/design/top.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} H:/fpga/First_lessons/10_top_down/homework/sim/tb_top.v {1 {vlog -work work -vopt -stats=none H:/fpga/First_lessons/10_top_down/homework/sim/tb_top.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_top
+
+Top level modules:
+	tb_top
+
+} {} {}}
