@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=H:\fpga\First_lessons\12_keyshift_led\have_shiver\ise_prj\keyshiftled.ncd
+OUTFILE=H:\fpga\First_lessons\12_keyshift_led\have_shiver\ise_prj\keyshiftled.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=H:\fpga\First_lessons\12_keyshift_led\have_shiver\ise_prj
+LICENSE=WebPack
+USER_INFO=_

@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "H:/fpga/First_lessons/12_keyshift_led/have_shiver/ise_prj/keyshiftled.xst" -ofn "H:/fpga/First_lessons/12_keyshift_led/have_shiver/ise_prj/keyshiftled.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc topdownkey.ucf -p xc6slx9-tqg144-2 keyshiftled.ngc keyshiftled.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o keyshiftled_map.ncd keyshiftled.ngd keyshiftled.pcf 
+par -w -intstyle ise -ol high -mt off keyshiftled_map.ncd keyshiftled.ncd keyshiftled.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml keyshiftled.twx keyshiftled.ncd -o keyshiftled.twr keyshiftled.pcf -ucf topdownkey.ucf 
+bitgen -intstyle ise -f keyshiftled.ut keyshiftled.ncd 
