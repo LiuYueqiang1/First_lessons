@@ -1,0 +1,15 @@
+H:/fpga/First_lessons/11_fsm/design/fsm.v {1 {vlog -work work -vopt -stats=none H:/fpga/First_lessons/11_fsm/design/fsm.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module fsm
+
+Top level modules:
+	fsm
+
+} {} {}} H:/fpga/First_lessons/11_fsm/sim/tb_sim.v {1 {vlog -work work -vopt -stats=none H:/fpga/First_lessons/11_fsm/sim/tb_sim.v
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module tb_sim
+
+Top level modules:
+	tb_sim
+
+} {} {}}
